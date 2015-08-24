@@ -1,0 +1,8 @@
+
+run the command as below:
+
+Setup.exe ConfigurationFile=SQLConfigurationFile.ini
+
+\\192.168.1.201\iso\SQL2012-SP2ISO\setup.exe /ConfigurationFile="c:\PowerShell\SQL2012-Quiet.ini"
+
+Known working
