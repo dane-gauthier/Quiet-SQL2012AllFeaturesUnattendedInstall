@@ -1,0 +1,4 @@
+All working in lab tests
+
+Would be good to set SQL Agent to Start and AutoStart
+Would be handy to drop firewalls or make exceptions

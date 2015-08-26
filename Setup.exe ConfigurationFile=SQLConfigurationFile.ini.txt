@@ -3,6 +3,12 @@ run the command as below:
 
 Setup.exe ConfigurationFile=SQLConfigurationFile.ini
 
-\\192.168.1.201\iso\SQL2012-SP2ISO\setup.exe /ConfigurationFile="c:\PowerShell\SQL2012-Quiet.ini"
+\\192.168.1.201\iso\SQL2012-SP2ISO\setup.exe /ConfigurationFile="c:\PowerShell\SQL2012-Quiet-UTF8.ini"
 
-Known working
+
+
+
+Known working, installs INSTANCENAME="INSTANCE1"
+
+Reference
+https://simondrichards.wordpress.com/2012/11/04/sql-server-2012-automated-install-ini-feature-list/
